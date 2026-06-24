@@ -28,6 +28,14 @@ The dashboard focuses on:
 - Data Visualization
 
 ---
+## 🧹 Data Preparation (SQL)
+
+- Combined two years of bike-sharing data using a **UNION ALL CTE** to create a single analysis-ready dataset.  
+- Joined ride data with the **cost table (price & COGS)** to enable profitability analysis.  
+- Created key calculated business metrics:  
+  - **Revenue = riders × price**  
+  - **Profit = riders × (price − COGS)**  
+- Ensured the dataset was clean and structured for **Power BI dashboard development and analysis**.  
 
 ## 📊 Dashboard Preview
 
